@@ -1,1 +1,1 @@
-New Problem
+New Problems are very easy
