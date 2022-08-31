@@ -21,3 +21,7 @@ Problem 10 - pairs-of-songs-with-total-durations-divisible-by-60 ( https://leetc
 Problem 11 - boats-to-save-people ( https://leetcode.com/problems/boats-to-save-people/submissions/ )
 
 Problem 12 - 3sum-closest ( https://leetcode.com/problems/3sum-closest/submissions/ )
+
+Problem 13 - expressive-words ( https://leetcode.com/problems/expressive-words/submissions/ )
+
+Problem 14 - subarray-sum-equals-k ( https://leetcode.com/problems/subarray-sum-equals-k/submissions/ )
