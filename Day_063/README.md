@@ -1,0 +1,1 @@
+Problem 1 - numbers-with-same-consecutive-differences ( https://leetcode.com/problems/numbers-with-same-consecutive-differences/submissions/ )
