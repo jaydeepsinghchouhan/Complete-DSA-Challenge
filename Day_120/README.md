@@ -3,3 +3,5 @@ Problem 1 - given-a-linked-list-of-0s-1s-and-2s-sort-it ( https://practice.geeks
 Problem 2 - intersection-of-two-linked-lists ( https://leetcode.com/problems/intersection-of-two-linked-lists/ )
 
 Problem 3 - add-1-to-a-number-represented-as-linked-list ( https://practice.geeksforgeeks.org/problems/add-1-to-a-number-represented-as-linked-list/1?utm_source=youtube&utm_medium=collab_striver_ytdescription&utm_campaign=add-1-to-a-number-represented-as-linked-list )
+
+Problem 4 - find-pairs-with-given-sum-in-doubly-linked-list ( https://practice.geeksforgeeks.org/problems/find-pairs-with-given-sum-in-doubly-linked-list/1?utm_source=youtube&utm_medium=collab_striver_ytdescription&utm_campaign=find-pairs-with-given-sum-in-doubly-linked-list )
