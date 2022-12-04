@@ -1,0 +1,1 @@
+Problem 1 - minimum-average-difference ( https://leetcode.com/problems/minimum-average-difference/ )
