@@ -1,0 +1,1 @@
+Problem 1 - check-if-string-is-a-prefix-of-array ( https://leetcode.com/problems/check-if-string-is-a-prefix-of-array/description/ )
