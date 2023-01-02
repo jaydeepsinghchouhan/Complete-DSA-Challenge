@@ -1,0 +1,1 @@
+Problem 1 - detect-capital ( https://leetcode.com/problems/detect-capital/description/ )
